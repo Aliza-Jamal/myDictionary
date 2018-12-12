@@ -1,0 +1,18 @@
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.exe.config
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.exe
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.pdb
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.exe
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.pdb
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\MyDictionary.csprojResolveAssemblyReference.cache
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.Dictionary.resources
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.Properties.Resources.resources
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\MyDictionary.csproj.GenerateResource.Cache
+D:\Lenovo Data\All Semesters Data\DS_project\myDictionary\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.exe.config
+D:\Lenovo Data\All Semesters Data\DS_project\myDictionary\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.exe
+D:\Lenovo Data\All Semesters Data\DS_project\myDictionary\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.pdb
+D:\Lenovo Data\All Semesters Data\DS_project\myDictionary\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.exe
+D:\Lenovo Data\All Semesters Data\DS_project\myDictionary\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.pdb
+D:\Lenovo Data\All Semesters Data\DS_project\myDictionary\Ezaaaaa\Ezaaaaa\obj\Debug\MyDictionary.csprojResolveAssemblyReference.cache
+D:\Lenovo Data\All Semesters Data\DS_project\myDictionary\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.Dictionary.resources
+D:\Lenovo Data\All Semesters Data\DS_project\myDictionary\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.Properties.Resources.resources
+D:\Lenovo Data\All Semesters Data\DS_project\myDictionary\Ezaaaaa\Ezaaaaa\obj\Debug\MyDictionary.csproj.GenerateResource.Cache

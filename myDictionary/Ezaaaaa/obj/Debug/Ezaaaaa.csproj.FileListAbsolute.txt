@@ -1,0 +1,18 @@
+c:\users\wm\documents\visual studio 2013\Projects\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.exe.config
+c:\users\wm\documents\visual studio 2013\Projects\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.exe
+c:\users\wm\documents\visual studio 2013\Projects\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.pdb
+c:\users\wm\documents\visual studio 2013\Projects\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.csprojResolveAssemblyReference.cache
+c:\users\wm\documents\visual studio 2013\Projects\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.Properties.Resources.resources
+c:\users\wm\documents\visual studio 2013\Projects\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.csproj.GenerateResource.Cache
+c:\users\wm\documents\visual studio 2013\Projects\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.exe
+c:\users\wm\documents\visual studio 2013\Projects\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.pdb
+C:\Users\WM\documents\visual studio 2013\Projects\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.Dictionary.resources
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.exe.config
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.exe
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.pdb
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.exe
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\bin\Debug\Ezaaaaa.pdb
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.csprojResolveAssemblyReference.cache
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.Dictionary.resources
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.Properties.Resources.resources
+D:\semesters\DS_project\Ezaaaaa\Ezaaaaa\obj\Debug\Ezaaaaa.csproj.GenerateResource.Cache
